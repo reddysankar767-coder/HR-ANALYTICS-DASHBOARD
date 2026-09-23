@@ -49,7 +49,7 @@ The dataset contains employee information such as:
 
 ---
 
-## 🧹 Data Cleaning & Validation
+##  Data Cleaning & Validation
 
 The dataset was checked before performing the analysis.
 
@@ -226,7 +226,7 @@ AVERAGE(Employee[Salary])
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 HR-Employee-Attrition-Analysis/
